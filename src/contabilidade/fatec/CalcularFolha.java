@@ -9,8 +9,7 @@ import java.text.DecimalFormat;
 
 /**
  *
- 
- * @author m_sal
+ * @author mrsalustiano
  */
     
 public class CalcularFolha {
